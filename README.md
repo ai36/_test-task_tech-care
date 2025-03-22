@@ -1,7 +1,9 @@
 # Tech care
-(React + Vite + Js)
 
 <br>
+
+[Demo (React + Vite + js)](https://tech-care-test-case.vercel.app/)
+
 
 ## Install
 
