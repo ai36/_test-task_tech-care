@@ -45,9 +45,9 @@ The URL to the Adobe XD template can be found here - https://xd.adobe.com/view/1
 
 <br>
 
-Using the Coalition Technologies Patient Data API, you are to make a GET request to fetch the information that will be used to populate the UI to be created. The API documentation can be found here -https://documenter.getpostman.com/view/11861104/2sA35G42ve
+Using the Coalition Technologies Patient Data API, you are to make a GET request to fetch the information that will be used to populate the UI to be created. The API documentation can be found here - https://documenter.getpostman.com/view/11861104/2sA35G42ve
 
-In the Adobe XD template, there is a graph showing the blood pressure of the patients each year. We recommend using https://www.chartjs.org/. However, feel free to use any other chart or graph library if you’re more comfortable with that.
+In the Adobe XD template, there is a graph showing the blood pressure of the patients each year. We recommend using https://www.chartjs.org . However, feel free to use any other chart or graph library if you’re more comfortable with that.
 
 ### Important Notes:
 
