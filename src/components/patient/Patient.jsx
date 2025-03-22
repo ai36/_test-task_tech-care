@@ -1,4 +1,4 @@
-import moreh from "@assets/img/more_horiz_FILL0_wght300_GRAD0_opsz24.svg";
+import moreh from "@img/more_horiz_FILL0_wght300_GRAD0_opsz24.svg";
 import styles from "./patient.module.css";
 
 function Patient(props) {

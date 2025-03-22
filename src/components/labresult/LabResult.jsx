@@ -1,5 +1,4 @@
-import icon from "@assets/img/download_FILL0_wght300_GRAD0_opsz24 (1).svg";
-//import { dataRaw } from "@src/data-patient.js";
+import icon from "@img/download_FILL0_wght300_GRAD0_opsz24 (1).svg";
 import styles from "./labResult.module.css";
 import React, { useContext } from "react";
 import { ApiDataContext } from "@src/ApiDataContext.jsx";

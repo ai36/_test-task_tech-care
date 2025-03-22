@@ -1,7 +1,7 @@
 import Chart from "@components/chart/Chart";
-import respiratoryIcon from "@assets/img/respiratory rate.svg";
-import temperatureIcon from "@assets/img/temperature.svg";
-import heartIcon from "@assets/img/HeartBPM.svg";
+import respiratoryIcon from "@img/respiratory rate.svg";
+import temperatureIcon from "@img/temperature.svg";
+import heartIcon from "@img/HeartBPM.svg";
 // import { dataRaw } from "@src/data-patient.js";
 import styles from "./diagnosticHistory.module.css";
 import React, { useContext } from "react";
