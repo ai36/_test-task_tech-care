@@ -1,0 +1,37 @@
+.box {
+    height: 44px;
+    aspect-ratio: 24066/4400;
+
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-14)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-manrope);
+    color: var(--unnamed-color-072635);
+}
+
+.desc {
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-14)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-manrope);
+    color: var(--unnamed-color-707070);
+}
+
+.separator {
+    min-height: 100%;
+    max-width: 1px;
+    color: var(--unnamed-color-ededed);
+}
+
+.settings {
+    height: 20px;
+    aspect-ratio: 1894/2000;
+}
+
+.morev {
+    height: 18px;
+    aspect-ratio: 371/1800;
+}

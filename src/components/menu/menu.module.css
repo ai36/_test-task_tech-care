@@ -1,0 +1,21 @@
+.menu-list {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    translate: 20px 0;
+}
+
+.menu__item {
+    display: flex;
+    align-items: center;
+    padding-inline: 16px;
+    height: 41px;
+    transition: .2s;
+}
+
+.menu__item:hover {
+    padding-inline: 16px;
+    margin-inline: 16px;
+    background: var(--activestate_bg_1);
+    border-radius: 41px;
+}

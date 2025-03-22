@@ -1,0 +1,62 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100dvh;
+    margin: 0;
+}
+
+ul,
+li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+img {
+    display: block;
+}
+
+a {
+    color: inherit;
+}
+
+button, input {
+    font: inherit;
+}
+
+p {
+    margin: 0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    margin: 0;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+    -webkit-appearance: none;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #E3E4E6;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--unnamed-color-072635);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-button {
+    display: none;
+    scrollbar-arrow-color: transparent;
+}
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: var(--unnamed-color-072635) #E3E4E6;
+}

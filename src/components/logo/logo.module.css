@@ -1,0 +1,10 @@
+.link {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.image {
+    height: 48px;
+    aspect-ratio: 21058/4800;
+}
