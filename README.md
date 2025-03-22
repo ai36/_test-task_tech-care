@@ -39,6 +39,11 @@ Instructions You will be responsible for converting an Adobe XD template to HTML
 
 The URL to the Adobe XD template can be found here - https://xd.adobe.com/view/121254c9-532f-4772-a1ba-dfe529a96b39-4741/
 
+<br>
+
+![Описание картинки](./tech-care.png)
+
+<br>
 
 Using the Coalition Technologies Patient Data API, you are to make a GET request to fetch the information that will be used to populate the UI to be created. The API documentation can be found here -https://documenter.getpostman.com/view/11861104/2sA35G42ve
 
