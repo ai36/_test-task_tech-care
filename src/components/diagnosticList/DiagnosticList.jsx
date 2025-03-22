@@ -1,4 +1,3 @@
-//import { dataRaw } from "@src/data-patient.js";
 import styles from "./diagnosticList.module.css";
 import React, { useContext } from 'react';
 import { ApiDataContext } from '@src/ApiDataContext.jsx';

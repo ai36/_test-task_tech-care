@@ -1,7 +1,7 @@
 // import { dataRaw } from "@src/data-patient.js";
-import arrowup from "@assets/img/ArrowUp.svg";
-import arrowdown from "@assets/img/ArrowDown.svg";
-import summaryIcon from "@assets/img/expand_more_FILL0_wght300_GRAD0_opsz24.svg";
+import arrowup from "@img/ArrowUp.svg";
+import arrowdown from "@img/ArrowDown.svg";
+import summaryIcon from "@img/expand_more_FILL0_wght300_GRAD0_opsz24.svg";
 import { Line } from "react-chartjs-2";
 import { Chart as ChartJS, CategoryScale, LinearScale, PointElement, LineElement } from "chart.js";
 import styles from "./chart.module.css";

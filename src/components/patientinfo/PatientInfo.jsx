@@ -1,9 +1,9 @@
 //import { dataRaw } from "@src/data-patient.js";
-import birthIcon from "@assets/img/BirthIcon.svg";
-import genderFemaleIcon from "@assets/img/FemaleIcon.svg";
-import genderMaleIcon from "@assets/img/MaleIcon.svg";
-import phoneIcon from "@assets/img/PhoneIcon.svg";
-import insuranceIcon from "@assets/img/InsuranceIcon.svg";
+import birthIcon from "@img/BirthIcon.svg";
+import genderFemaleIcon from "@img/FemaleIcon.svg";
+import genderMaleIcon from "@img/MaleIcon.svg";
+import phoneIcon from "@img/PhoneIcon.svg";
+import insuranceIcon from "@img/InsuranceIcon.svg";
 import styles from "./patientInfo.module.css";
 import React, { useContext } from "react";
 import { ApiDataContext } from "@src/ApiDataContext.jsx";

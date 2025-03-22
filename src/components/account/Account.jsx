@@ -1,6 +1,6 @@
-import photo from "@assets/img/senior-woman-doctor-and-portrait-smile-for-health-2023-11-27-05-18-16-utc.png";
-import settings from "@assets/img/settings_FILL0_wght300_GRAD0_opsz24.svg";
-import morev from "@assets/img/more_vert_FILL0_wght300_GRAD0_opsz24.svg";
+import photo from "@img/senior-woman-doctor-and-portrait-smile-for-health-2023-11-27-05-18-16-utc.png";
+import settings from "@img/settings_FILL0_wght300_GRAD0_opsz24.svg";
+import morev from "@img/more_vert_FILL0_wght300_GRAD0_opsz24.svg";
 import styles from "@components/account/account.module.css";
 
 const title = "Dr.Jose Simmons";

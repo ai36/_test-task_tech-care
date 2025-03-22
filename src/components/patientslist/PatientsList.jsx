@@ -1,6 +1,6 @@
 import { patiensList } from "@src/data.js";
 import Patient from "@components/patient/Patient";
-import search from "@assets/img/search_FILL0_wght300_GRAD0_opsz24.svg";
+import search from "@img/search_FILL0_wght300_GRAD0_opsz24.svg";
 import styles from "./patientsList.module.css";
 
 function PatientsList() {
