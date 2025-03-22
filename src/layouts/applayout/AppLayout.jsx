@@ -1,6 +1,6 @@
 import Header from "@components/header/Header";
 import MainContent from "@components/maincontent/MainContent";
-import styles from "./applayout.module.css";
+import styles from "./appLayout.module.css";
 
 function AppLayout() {
     return (
